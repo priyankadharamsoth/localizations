@@ -1,0 +1,17 @@
+{
+    "@@locale": "de",
+    "hello": "Hallo {name}",
+    "@hello": {
+        "placeholders": {
+            "name": {
+                "type": "String",
+                "example" : "Priya",
+                "description" : "Name"
+            }
+        }
+    },
+    "calendarDatePickerTitle": "Kalenderdatumsauswahl",
+    "calendarDatePickerButton": "Wählen Sie Datum aus",
+    "calendarDatePickerNoSelected": "Kein Datum ausgewählt",
+    "localization": "Lokalisierung"
+}

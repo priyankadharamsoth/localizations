@@ -1,0 +1,18 @@
+{
+    "@@locale": "en",
+    "hello": "hello {name}",
+    "@hello" : {
+        "description": "hello",
+        "placeholders" : {
+            "name": {
+                "type" : "String",
+                "example" : "priya",
+                "description" : "name"
+            }
+        }
+    },
+    "calendarDatePickerTitle": "Calendar Date Picker",
+    "calendarDatePickerButton": "Pick Date",
+    "calendarDatePickerNoSelected": "No date selected",
+    "localization": "localization"
+}

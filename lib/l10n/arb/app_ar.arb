@@ -1,0 +1,18 @@
+{
+    "@@locale": "ar",
+    "hello": "مرحبًا {name}",
+    "@hello" : {
+        "description" : "مرحباً بسيطاً",
+        "placeholders" : {
+            "name": {
+                "type" : "String",
+                "example" : "بريا",
+                "description" : "اسم"
+            }
+        }
+    },
+    "calendarDatePickerTitle": "منتقي تاريخ التقويم",
+    "calendarDatePickerButton": "اختر التاريخ",
+    "calendarDatePickerNoSelected": "لم يتم تحديد تاريخ",
+    "localization": "التعريب"
+}
